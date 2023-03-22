@@ -1523,10 +1523,10 @@
 
 /* RESPONSIVE  */
 
-@media (max-width: 375px) {
+@media (max-width: 500px) {
   .App {
     position: relative;
-    width: 375px;
+    width: 500px;
     height: 7201px;
     background: #0a2540;
   }
