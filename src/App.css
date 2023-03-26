@@ -1519,9 +1519,16 @@
 }
 
 
+/* RESPONSIVE TABLET */
+@media (max-width:1024px) {
+  
+}
 
 
-/* RESPONSIVE  */
+
+
+
+/* RESPONSIVE MOBILE */
 
 @media (max-width: 500px) {
   .App {
