@@ -1839,28 +1839,36 @@
     top: 560px;
   }
   .weDo3img {
-    display: none;
+    left: 78px;
+    top: 580px;
   }
   .weDo3imgz {
-    display: none;
+   left: 70px;
+   top: 565px;
   }
   .weDo2img {
-    display: none;
+    left: 564px;
+    top: 338px;
   }
   .weDo2imgz {
-    display: none;
+    left: 552px;
+    top: 325px;
   }
   .weDo2imgx{
-    display: none;
+    left: 565px;
+    top: 325px;
   }
   .weDo2imgt {
-    display: none;
+   left: 580px;
+   top: 325px;
   }
   .weDo2imgs {
-    display: none;
+   left: 560px;
+   top: 310px;
   }
   .weDo2imgf {
-    display: none;
+   left: 575px;
+   top: 310px;
   }
   .firstClass {
     position: absolute;
