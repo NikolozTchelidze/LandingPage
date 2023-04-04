@@ -7,9 +7,7 @@
 }
 .App {
   position: relative;
-  width: 1920px;
   height: 5304px;
-
   background: #0a2540;
 }
 /* LOGO  */
@@ -17,14 +15,14 @@
   position: absolute;
   width: 33px;
   height: 36px;
-  left: 344px;
+  left: 100px;
   top: 23px;
 }
 .logoDiv .p1 {
   position: absolute;
   width: 58px;
   height: 20px;
-  left: 393px;
+  left: 135px;
   top: 20px;
 
   font-family: "Plus Jakarta Sans";
@@ -39,7 +37,7 @@
   position: absolute;
   width: 134px;
   height: 15px;
-  left: 393px;
+  left: 135px;
   top: 44px;
 
   font-family: "Plus Jakarta Sans";
@@ -67,23 +65,23 @@
   font-size: 14px;
 }
 .link1 {
-  left: 730px;
+  left: 450px;
   width: 58px;
 }
 .link2 {
-  left: 828px;
+  left:560px;
   width: 81px;
 }
 .link3 {
-  left: 949px;
+  left: 690px;
   width: 59px;
 }
 .link4 {
-  left: 1048px;
+  left: 800px;
   width: 48px;
 }
 .link5 {
-  left: 1136px;
+  left: 900px;
   width: 54px;
 }
 /*  */
@@ -91,7 +89,7 @@
   position: absolute;
   width: 110px;
   height: 36px;
-  left: 1466px;
+  left: 1200px;
   top: 24px;
 
   background: #10375b;
@@ -116,7 +114,7 @@
   position: absolute;
   width: 118px;
   height: 44px;
-  left: 344px;
+  left: 100px;
   top: 761px;
 
   background: #00d4ff;
@@ -143,7 +141,7 @@
   position: absolute;
   width: 288px;
   height: 28px;
-  left: 344px;
+  left: 100px;
   top: 276px;
 
   font-family: "Plus Jakarta Sans";
@@ -158,7 +156,7 @@
   position: absolute;
   width: 523px;
   height: 273px;
-  left: 344px;
+  left: 100px;
   top: 324px;
 
   font-family: "Plus Jakarta Sans";
@@ -173,7 +171,7 @@
   position: absolute;
   width: 522px;
   height: 84px;
-  left: 344px;
+  left: 100px;
   top: 637px;
 
   font-family: "Plus Jakarta Sans";
@@ -188,7 +186,7 @@
   position: absolute;
   width: 112px;
   height: 18px;
-  left: 482px;
+  left: 300px;
   top: 774px;
 
   font-family: "Plus Jakarta Sans";
@@ -206,49 +204,49 @@
   position: absolute;
   width: 130px;
   height: 32px;
-  left: 409px;
+  left: 200px;
   top: 955px;
 }
 .icon2 {
   position: absolute;
   width: 97px;
   height: 32px;
-  left: 750px;
+  left: 500px;
   top: 955px;
 }
 .icon3 {
   position: absolute;
   width: 131px;
   height: 32px;
-  left: 1056px;
+  left: 800px;
   top: 955px;
 }
 .icon4 {
   position: absolute;
   width: 111px;
   height: 32px;
-  left: 1390px;
+  left: 1100px;
   top: 955px;
 }
 .icon5 {
   position: absolute;
   width: 37px;
   height: 32px;
-  left: 455px;
+  left: 240px;
   top: 1051px;
 }
 .icon6 {
   position: absolute;
   width: 151px;
   height: 32px;
-  left: 723px;
+  left: 480px;
   top: 1051px;
 }
 .icon7 {
   position: absolute;
   width: 97px;
   height: 32px;
-  left: 1073px;
+  left: 820px;
   top: 1051px;
 }
 
@@ -256,14 +254,14 @@
   position: absolute;
   width: 170px;
   height: 24px;
-  left: 1361px;
+  left: 1080px;
   top: 1055px;
   opacity: 0.7;
 }
 /* IMAGE STYLES */
 .whatWeDoDiv {
   position: absolute;
-  width: 1920px;
+  width: 100%;
   height: 716px;
   left: 0px;
   top: 1147px;
@@ -274,7 +272,7 @@
   position: absolute;
   width: 103px;
   height: 28px;
-  left: 344px;
+  left: 100px;
   top: 132px;
 
   font-family: "Plus Jakarta Sans";
@@ -289,7 +287,7 @@
   position: absolute;
   width: 399px;
   height: 48px;
-  left: 344px;
+  left: 100px;
   top: 180px;
 
   font-family: "Plus Jakarta Sans";
@@ -304,7 +302,7 @@
   position: absolute;
   width: 118px;
   height: 44px;
-  left: 344px;
+  left: 100px;
   top: 268px;
 
   background: #00c1cc;
@@ -337,7 +335,7 @@
   position: absolute;
   width: 189px;
   height: 48px;
-  left: 344px;
+  left: 100px;
   top: 440px;
 
   font-family: "Plus Jakarta Sans";
@@ -352,7 +350,7 @@
   position: absolute;
   width: 260px;
   height: 84px;
-  left: 344px;
+  left: 100px;
   top: 500px;
 
   font-family: "Plus Jakarta Sans";
@@ -367,7 +365,7 @@
   position: absolute;
   width: 213px;
   height: 48px;
-  left: 668px;
+  left: 480px;
   top: 440px;
 
   font-family: "Plus Jakarta Sans";
@@ -382,7 +380,7 @@
   position: absolute;
   width: 260px;
   height: 63px;
-  left: 668px;
+  left: 480px;
   top: 500px;
 
   font-family: "Plus Jakarta Sans";
@@ -397,7 +395,7 @@
   position: absolute;
   width: 224px;
   height: 24px;
-  left: 992px;
+  left: 850px;
   top: 440px;
 
   font-family: "Plus Jakarta Sans";
@@ -412,7 +410,7 @@
   position: absolute;
   width: 260px;
   height: 105px;
-  left: 992px;
+  left: 850px;
   top: 476px;
 
   font-family: "Plus Jakarta Sans";
@@ -427,7 +425,7 @@
   position: absolute;
   width: 202px;
   height: 24px;
-  left: 1316px;
+  left: 1200px;
   top: 440px;
 
   font-family: "Plus Jakarta Sans";
@@ -442,7 +440,7 @@
   position: absolute;
   width: 260px;
   height: 63px;
-  left: 1316px;
+  left: 1200px;
   top: 476px;
 
   font-family: "Plus Jakarta Sans";
@@ -457,7 +455,7 @@
   position: absolute;
   width: 175px;
   height: 28px;
-  left: 344px;
+  left: 100px;
   top: 132px;
 
   font-family: "Plus Jakarta Sans";
@@ -472,7 +470,7 @@
   position: absolute;
   width: 537px;
   height: 48px;
-  left: 344px;
+  left: 100px;
   top: 180px;
 
   font-family: "Plus Jakarta Sans";
@@ -487,7 +485,7 @@
   position: absolute;
   width: 609px;
   height: 48px;
-  left: 344px;
+  left: 100px;
   top: 268px;
 
   font-family: "Plus Jakarta Sans";
@@ -502,7 +500,7 @@
   position: absolute;
   width: 616px;
   height: 208px;
-  left: 312px;
+  left: 112px;
   top: 380px;
   overflow: hidden;
   background: #ffffff;
@@ -565,7 +563,7 @@
   position: absolute;
   width: 616px;
   height: 208px;
-  left: 312px;
+  left: 112px;
   top: 620px;
   overflow: hidden;
   background: #ffffff;
@@ -628,7 +626,7 @@
   position: absolute;
   width: 648px;
   height: 448px;
-  left: 960px;
+  left: 800px;
   top: 380px;
   overflow: hidden;
   background: #ffffff;
@@ -701,7 +699,7 @@
   position: absolute;
   width: 140px;
   height: 28px;
-  left: 344px;
+  left: 100px;
   top: 132px;
 
   font-family: "Plus Jakarta Sans";
@@ -715,7 +713,7 @@
   position: absolute;
   width: 359px;
   height: 48px;
-  left: 344px;
+  left:100px;
   top: 180px;
 
   font-family: "Plus Jakarta Sans";
@@ -730,7 +728,7 @@
   position: absolute;
   width: 609px;
   height: 48px;
-  left: 344px;
+  left: 100px;
   top: 260px;
 
   font-family: "Plus Jakarta Sans";
@@ -746,7 +744,7 @@
   width: 187px;
   height: 40px;
   position: absolute;
-  left: 1389px;
+  left: 1200px;
   top: 268px;
 }
 
@@ -754,14 +752,14 @@
   position: absolute;
   width: 40px;
   height: 40px;
-  left: 344px;
+  left: 144px;
   top: 404px;
 }
 .clientName1 {
   position: absolute;
   width: 143px;
   height: 20px;
-  left: 344px;
+  left: 144px;
   top: 464px;
 
   font-family: "Plus Jakarta Sans";
@@ -776,7 +774,7 @@
   position: absolute;
   width: 146px;
   height: 15px;
-  left: 344px;
+  left: 144px;
   top: 490px;
 
   font-family: "Plus Jakarta Sans";
@@ -791,7 +789,7 @@
   position: absolute;
   width: 260px;
   height: 147px;
-  left: 344px;
+  left: 144px;
   top: 521px;
 
   font-family: "Plus Jakarta Sans";
@@ -807,14 +805,14 @@
   position: absolute;
   width: 40px;
   height: 40px;
-  left: 668px;
+  left: 500px;
   top: 404px;
 }
 .client2 h1 {
   position: absolute;
   width: 82px;
   height: 20px;
-  left: 668px;
+  left: 500px;
   top: 464px;
 
   font-family: "Plus Jakarta Sans";
@@ -829,7 +827,7 @@
   position: absolute;
   width: 133px;
   height: 15px;
-  left: 668px;
+  left: 500px;
   top: 490px;
 
   font-family: "Plus Jakarta Sans";
@@ -844,7 +842,7 @@
   position: absolute;
   width: 260px;
   height: 84px;
-  left: 668px;
+  left: 500px;
   top: 521px;
 
   font-family: "Plus Jakarta Sans";
@@ -860,14 +858,14 @@
   position: absolute;
   width: 40px;
   height: 40px;
-  left: 992px;
+  left: 880px;
   top: 404px;
 }
 .client3 h1 {
   position: absolute;
   width: 127px;
   height: 20px;
-  left: 992px;
+  left: 880px;
   top: 464px;
 
   font-family: "Plus Jakarta Sans";
@@ -882,7 +880,7 @@
   position: absolute;
   width: 88px;
   height: 15px;
-  left: 992px;
+  left: 880px;
   top: 490px;
 
   font-family: "Plus Jakarta Sans";
@@ -897,7 +895,7 @@
   position: absolute;
   width: 260px;
   height: 105px;
-  left: 992px;
+  left: 880px;
   top: 521px;
 
   font-family: "Plus Jakarta Sans";
@@ -912,14 +910,14 @@
   position: absolute;
   width: 40px;
   height: 40px;
-  left: 1316px;
+  left: 1250px;
   top: 404px;
 }
 .client4 h1 {
   position: absolute;
   width: 96px;
   height: 20px;
-  left: 1316px;
+  left: 1250px;
   top: 464px;
 
   font-family: "Plus Jakarta Sans";
@@ -934,7 +932,7 @@
   position: absolute;
   width: 206px;
   height: 15px;
-  left: 1316px;
+  left: 1250px;
   top: 490px;
 
   font-family: "Plus Jakarta Sans";
@@ -949,7 +947,7 @@
   position: absolute;
   width: 260px;
   height: 84px;
-  left: 1316px;
+  left: 1250px;
   top: 521px;
 
   font-family: "Plus Jakarta Sans";
@@ -964,7 +962,7 @@
   position: absolute;
   width: 122px;
   height: 28px;
-  left: 344px;
+  left: 100px;
   top: 132px;
 
   font-family: "Plus Jakarta Sans";
@@ -979,7 +977,7 @@
   position: absolute;
   width: 544px;
   height: 48px;
-  left: 344px;
+  left: 100px;
   top: 180px;
 
   font-family: "Plus Jakarta Sans";
@@ -994,7 +992,7 @@
   position: absolute;
   width: 616px;
   height: 48px;
-  left: 344px;
+  left: 100px;
   top: 260px;
 
   font-family: "Plus Jakarta Sans";
@@ -1009,7 +1007,7 @@
   position: absolute;
   width: 118px;
   height: 44px;
-  left: 344px;
+  left: 100px;
   top: 348px;
 
   background: #00c1cc;
@@ -1034,7 +1032,7 @@
   position: absolute;
   width: 1296px;
   height: 420px;
-  left: 312px;
+  left: 100px;
   top: 456px;
   border-radius: 8px;
   background: linear-gradient(
@@ -1048,7 +1046,7 @@
   position: absolute;
   width: 586px;
   height: 80px;
-  left: 356px;
+  left: 120px;
   top: 716px;
 
   font-family: "Plus Jakarta Sans";
@@ -1063,7 +1061,7 @@
   position: absolute;
   width: 82px;
   height: 20px;
-  left: 356px;
+  left: 120px;
   top: 812px;
 
   font-family: "Plus Jakarta Sans";
@@ -1078,7 +1076,7 @@
   position: absolute;
   width: 88px;
   height: 18px;
-  left: 434px;
+  left: 180px;
   top: 972px;
 
   font-family: "Plus Jakarta Sans";
@@ -1094,7 +1092,7 @@
   position: absolute;
   width: 260px;
   height: 72px;
-  left: 344px;
+  left: 100px;
   top: 1002px;
 
   font-family: "Plus Jakarta Sans";
@@ -1111,7 +1109,7 @@
   position: absolute;
   width: 147px;
   height: 18px;
-  left: 724px;
+  left: 550px;
   top: 972px;
 
   font-family: "Plus Jakarta Sans";
@@ -1127,7 +1125,7 @@
   position: absolute;
   width: 260px;
   height: 24px;
-  left: 668px;
+  left: 500px;
   top: 1002px;
 
   font-family: "Plus Jakarta Sans";
@@ -1145,7 +1143,7 @@
   position: absolute;
   width: 109px;
   height: 18px;
-  left: 1067px;
+  left: 900px;
   top: 972px;
 
   font-family: "Plus Jakarta Sans";
@@ -1161,7 +1159,7 @@
   position: absolute;
   width: 260px;
   height: 24px;
-  left: 992px;
+  left: 830px;
   top: 1002px;
 
   font-family: "Plus Jakarta Sans";
@@ -1179,7 +1177,7 @@
   position: absolute;
   width: 88px;
   height: 18px;
-  left: 1402px;
+  left: 1250px;
   top: 972px;
 
   font-family: "Plus Jakarta Sans";
@@ -1195,7 +1193,7 @@
   position: absolute;
   width: 260px;
   height: 24px;
-  left: 1316px;
+  left: 1170px;
   top: 1002px;
 
   font-family: "Plus Jakarta Sans";
@@ -1213,7 +1211,7 @@
   position: absolute;
   width: 102px;
   height: 28px;
-  left: 344px;
+  left: 100px;
   top: 104px;
 
   font-family: "Plus Jakarta Sans";
@@ -1229,7 +1227,7 @@
   position: absolute;
   width: 419px;
   height: 30px;
-  left: 344px;
+  left: 100px;
   top: 148px;
 
   font-family: "Plus Jakarta Sans";
@@ -1244,7 +1242,7 @@
   position: absolute;
   width: 118px;
   height: 44px;
-  left: 344px;
+  left: 100px;
   top: 210px;
 
   background: #00c1cc;
@@ -1268,14 +1266,14 @@
 }
 .footer img {
   position: absolute;
-  left: 1009.39px;
+  left: 800px;
   top: 104px;
 }
 .footer .p3 {
   position: absolute;
   width: 49px;
   height: 24px;
-  left: 1316px;
+  left: 1150px;
   top: 104px;
 
   font-family: "Plus Jakarta Sans";
@@ -1291,7 +1289,7 @@
   position: absolute;
   width: 187px;
   height: 24px;
-  left: 1316px;
+  left: 1150px;
   top: 148px;
 
   font-family: "Plus Jakarta Sans";
@@ -1307,7 +1305,7 @@
   position: absolute;
   width: 132px;
   height: 24px;
-  left: 1316px;
+  left: 1150px;
   top: 188px;
 
   font-family: "Plus Jakarta Sans";
@@ -1323,7 +1321,7 @@
   position: absolute;
   width: 159px;
   height: 24px;
-  left: 1316px;
+  left: 1150px;
   top: 228px;
 
   font-family: "Plus Jakarta Sans";
@@ -1339,7 +1337,7 @@
   position: absolute;
   width: 173px;
   height: 21px;
-  left: 343px;
+  left: 100px;
   top: 390px;
 
   font-family: "Plus Jakarta Sans";
@@ -1355,7 +1353,7 @@
   position: absolute;
   width: 69px;
   height: 18px;
-  left: 1315px;
+  left: 1150px;
   top: 393px;
 
   font-family: "Plus Jakarta Sans";
@@ -1371,7 +1369,7 @@
   position: absolute;
   width: 69px;
   height: 18px;
-  left: 1408px;
+  left: 1250px;
   top: 393px;
 
   font-family: "Plus Jakarta Sans";
@@ -1387,7 +1385,7 @@
   position: absolute;
   width: 57px;
   height: 18px;
-  left: 1501px;
+  left: 1350px;
   top: 393px;
 
   font-family: "Plus Jakarta Sans";
@@ -1403,13 +1401,13 @@
   position: absolute;
   width: 648px;
   height: 589px;
-  left: 960px;
+  left: 750px;
   top: 241px;
   border-radius: 8px;
 }
 .firstClass {
   position: absolute;
-  width: 1920px;
+  width: 100%;
   height: 920px;
   left: 0px;
   top: 1863px;
@@ -1417,7 +1415,6 @@
 }
 .clients {
   position: absolute;
-  width: 1920px;
   height: 832px;
   left: 0px;
   top: 2832px;
@@ -1425,7 +1422,7 @@
 }
 .footer {
   position: absolute;
-  width: 1920px;
+  width: 100%;
   height: 443px;
   left: 0px;
   top: 4861px;
@@ -1433,7 +1430,7 @@
 }
 .otherInsights {
   position: absolute;
-  width: 1920px;
+  width: 100%;
   height: 1206px;
   top: 3655px;
   background: #ffffff;
